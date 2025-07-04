@@ -1,6 +1,6 @@
 WARNING: I AM NOT RESPONSIBLE FOR YOUR LOST DATA, OR MISUSE OF AI. KEEP BACKUPS OF ANY FILES YOU USE THIS 'PRE-COMPRESSION' ON. THIS IS INCOMPLETE PROGRAM AND ANY DATA YOU CODE THIS WAY IS VERY LIKELY TO BE CORRUPTED AND LOST FOREVER, OPTIMIZATIONS HAVE NOT BEEN MADE, AND IT DOES NOT YET HAVE A FINE-TUNED DECODING LLM. YOU WOULD HAVE TO USE AN UNTUNED LLM. YOU HAVE BEEN WARNED.  
 
-How to use: Simply run either program on your text document. Next, use the traditional compression of your choice. To decompress, unzip the file then feed the document to an LLM. With one layer of pre-compression LLMs will usually give you back something correct or very close to the original text. 
+How to use: Simply run either program on your text document. Next, use the traditional compression of your choice. To decompress, unzip the file then feed the document to an LLM. With one layer of pre-compression LLMs will usually give you back something correct or very close to the original text. You may need to prompt the LLM with the contents of this repository. 
 
 #Update: Also included 'Vowel' program. This program demonstrates the concept of this process which is very much like the gameshow 'Wheel of Fortune.' It will ask you to open a file, and when you give it a text document it will remove all of the vowels and print the new document as a string in terminal. It seems AI is still able to read these texts, which is interesting. I can't.
 
